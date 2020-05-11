@@ -1,0 +1,80 @@
+td {
+    width:5vw;
+    height: 5vw;
+    border: 1px solid black;
+    text-align: center;
+}
+.noborder{
+    border: none;
+
+}
+.strill{
+    background-color: lightcoral;
+    font-size: large;
+    
+}
+.uzi{
+    background-color: mediumspringgreen;
+    font-size: large;
+}
+
+.crick{
+    background-color: rgb(224, 238, 184);
+    font-size: large;
+}
+
+.dust{
+    background-color: rgb(241, 241, 73);
+    font-size: large;
+}
+.slive{
+    background-color: rgb(110, 235, 240);
+    font-size: large;
+}
+
+.trubble{
+    background-color: rgb(96, 231, 197);
+    font-size: large;
+}
+
+.gruzzer{
+    background-color: greenyellow ;
+    font-size: large;
+}
+.important{
+    background-color: rgb(166, 187, 211);
+    font-size: large;
+}
+
+.rimer{
+    background-color: rgb(134, 185, 228);
+    font-size: large;
+}
+
+
+.swiss{
+    background-color: rgb(171, 158, 231);
+    font-size: large;
+}
+/* .sluve{
+    width: 6vw;
+    height: 8vw;
+} */
+
+/* .treel ul{
+    list-style-type: square;
+    background-color: mediumspringgreen
+
+
+
+} */
+
+
+
+
+
+
+
+
+
+
